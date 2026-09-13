@@ -1,4 +1,4 @@
-name: Daily Agents Radar
+name: PRIME Daily Agents Radar
 
 on:
   schedule:
